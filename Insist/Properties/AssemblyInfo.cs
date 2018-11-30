@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+// Perl6 > C#
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
